@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-feature/form test
+form2
 </body>
 </html>
